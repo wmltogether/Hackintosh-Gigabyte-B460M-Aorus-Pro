@@ -195,9 +195,11 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwDImw==</data>
+				<data>BwCbPg==</data>
+				<key>device-id</key>
+				<data>kj4AAA==</data>
 				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
+				<string>Internal@0,4,0</string>
 				<key>device_type</key>
 				<string>Display controller</string>
 				<key>model</key>
@@ -211,15 +213,6 @@
 				<string>Ethernet controller</string>
 				<key>model</key>
 				<string>Ethernet Connection (12) I219-V</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1B,0x0)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,27,0/0,0</string>
-				<key>device_type</key>
-				<string>Network controller</string>
-				<key>model</key>
-				<string>Wi-Fi 6 AX200</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -605,7 +598,7 @@
 			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<false/>
+			<true/>
 			<key>DisableRtcChecksum</key>
 			<false/>
 			<key>DummyPowerManagement</key>
@@ -842,17 +835,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C020304054NPHCDAD</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02D40QHPN5T</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>CEF6426F-BEC3-4C9A-AE01-334835FE6C15</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
