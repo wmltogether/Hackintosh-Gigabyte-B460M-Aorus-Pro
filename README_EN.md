@@ -40,8 +40,8 @@
 |            Kext             |    Model     |
 | :-------------------------: | :----------: |
 |          Lilu.kext          |    1.4.6     |
-|       VirtualSMC.kext       |    1.1.5     |
-|     WhateverGreen.kext      |    1.4.1     |
+|       VirtualSMC.kext       |    1.1.6     |
+|     WhateverGreen.kext      |    1.4.2     |
 |       IntelMausi.kext       |    1.0.3     |
 |        AppleALC.kext        |    1.5.2    |
 
